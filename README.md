@@ -21,7 +21,7 @@ Um vídeo fala mais que 1000 palavras: [Python Birds](https://www.youtube.com/wa
 # Abordagem
 
 Instalar [Python 3](https://www.python.org/download/).
-
+) o fonema está diretamente ligado ao som da fala.
 Baixar o zip do projeto (botão Download Zip) 
 
 Os testes se encontram dentro do pacote "testes" e servem para definir a dinâmica das classes. Para rodar todos testes, execute:
